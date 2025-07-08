@@ -2,7 +2,7 @@
 
 
 👨‍💻 Computer Science SWE Senior & Security Informatics/Data Science Minor(s)  
-🔒 Passionate about cybersecurity, data privacy, and secure software development  
+🔒 Passionate about cybersecurity, data privacy, and software engineering
 🤣 Known for cracking code and cracking jokes (well, at least attempting to)  
 🚀 Actively seeking opportunities to apply my skills  
 🌟 Experienced in coding with Java, Kotlin, Python, C, JS (find more in my projects)  
